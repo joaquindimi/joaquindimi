@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, soy Joaquin</h1>
 <h3 align="center">Desarrollador web Front End, vivo en Argentina y tengo 23 años. Me apasiona la informatica y el mundo de la programacion.</h3>
 
-- 📄 Mis objetivos **Formar parte de un equipo de trabajo en donde pueda sacar el provecho maximo de mis habilidades, y en donde aprenda de las experiencias de mis compañeros. Seguir formandome constantemente en el aprendizaje e implementacion de nuevas tecnologias y lenguajes**
+- 📄 Mis objetivos
+-  **Formar parte de un equipo de trabajo en donde pueda sacar el provecho maximo de mis habilidades, y en donde aprenda de las experiencias de mis compañeros. Seguir formandome constantemente en el aprendizaje e implementacion de nuevas tecnologias y lenguajes**
 
 - 📫 Contacto **joaquindimi.dev@outlook.com**
 
