@@ -1,6 +1,13 @@
-### Hi there 👋 I'm Joaquin
+### Hola 👋 Soy Joaquin
 
+## Sobre mi
+Soy desarrollador web Front End, vivo en Argentina y tengo 23 años. Me apasiona la informatica y el mundo de la programacion.
 
+## Mis habilidades
+HTML, CSS, Javascript y React
+
+## Mis objetivos
+Formar parte de un equipo de trabajo en donde pueda sacar el provecho maximo de mis habilidades, y en donde aprenda de las experiencias de mis compañeros. Seguir formandome constantemente en el aprendizaje e implementacion de nuevas tecnologias y lenguajes.
 
 
 <!--
