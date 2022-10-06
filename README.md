@@ -9,7 +9,11 @@ HTML, CSS, Javascript y React
 ## Mis objetivos
 Formar parte de un equipo de trabajo en donde pueda sacar el provecho maximo de mis habilidades, y en donde aprenda de las experiencias de mis compañeros. Seguir formandome constantemente en el aprendizaje e implementacion de nuevas tecnologias y lenguajes.
 
-
+## Contacto
+https://twitter.com/joaquindimi
+https://www.linkedin.com/in/joaquindimitroff/
+https://www.instagram.com/joaquindimi/
+joaquindimi.dev@outlook.com
 <!--
 **joaquindimi/joaquindimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
